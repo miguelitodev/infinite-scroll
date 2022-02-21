@@ -1,4 +1,4 @@
-# infinite-scroll
+# Infinite Scroll
 This project was made for study about Infinite Scroll, getting data from Github API
 
 <a href="https://infinitescroll-miguelrisquelme.netlify.app/">Site link</a><br/>
